@@ -1,0 +1,11 @@
+[user]
+	name = yang cheng
+	email = yang.cheng@baishancloud.com
+[http]
+	postBuffer = 524288000
+[core]
+	editor = vim
+[credential]
+	helper = stroe
+[push]
+	default = matching
